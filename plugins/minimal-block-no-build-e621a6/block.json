@@ -1,0 +1,8 @@
+{
+	"apiVersion": 3,
+	"title": "DAMIEN Minimal Block No Build e621a6",
+	"name": "block-development-examples/minimal-block-no-build-e621a6",
+	"category": "media",
+	"icon": "smiley",
+	"editorScript": "file:./block.js"
+}
